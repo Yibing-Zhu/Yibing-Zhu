@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yibing-Zhu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in everything
+- 🌱 I’m always learning Java, SQL and interesting tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
