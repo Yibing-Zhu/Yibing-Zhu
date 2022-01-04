@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yibing-Zhu
 - 👀 I’m interested in everything
 - 🌱 I’m always learning Java, SQL and interesting tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
+- 💞️ I’m looking to collaborate on the next project
 
 <!---
 Yibing-Zhu/Yibing-Zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
